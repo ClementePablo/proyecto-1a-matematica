@@ -1,6 +1,6 @@
 {
   "name": "proyecto-1a-matematica-by-paio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Proyecti básico de matematica en node para subir a NPM",
   "main": "index.js",
   "scripts": {
