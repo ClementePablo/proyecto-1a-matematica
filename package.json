@@ -1,0 +1,19 @@
+{
+  "name": "proyecto-1a-matematica",
+  "version": "1.0.0",
+  "description": "Proyecti básico de matematica en node para subir a NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClementePablo/proyecto-1a-matematica.git"
+  },
+  "author": "Pablo Clemente <martin.clemente@cencosud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClementePablo/proyecto-1a-matematica/issues"
+  },
+  "homepage": "https://github.com/ClementePablo/proyecto-1a-matematica#readme"
+}
